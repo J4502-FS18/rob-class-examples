@@ -6,7 +6,11 @@ p {
     font-family: "Merriweather", Georgia, "Times New Roman", serif;
 	font-size: 1rem;
 	line-height: 1.5rem;
+<<<<<<< HEAD
 	color: yellow; 
+=======
+	color: blue;
+>>>>>>> 3bdd79665e457f0c37ee83de190a9b4dafe44250
 }
 
 .italic {
